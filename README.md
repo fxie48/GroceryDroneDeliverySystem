@@ -1,12 +1,12 @@
 # GroceryDroneDeliverySystem
 
-# Phase I 
+## Phase I 
 * ERD Creation
 
-# Phase II
+## Phase II
 * Schema Creation
 
-# Phase III 
+## Phase III 
 * Table Creation
 * Relevant queries
 
