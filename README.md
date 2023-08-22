@@ -14,4 +14,6 @@ We designed a database to store information about users, items, and orders withi
 * Table Creation
 * Relevant queries
 
+## Team Members
+Felice Xie, Neo Pak, Catherine Wang
 
