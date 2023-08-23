@@ -1,18 +1,17 @@
-# GroceryDroneDeliverySystem
-We designed a database to store information about users, items, and orders within a Grocery Drone Delivery System. Our schema can be viewed in the link under the Phase II section. It contains numerous tables to store the different aspects of the system we needed. After creating a blueprint of our database in Phases I and II of the project, we started querying from it to retrieve specific information.
+# Grocery Drone Delivery System
+In this project, we blueprinted and implemented a MySQL relational database to store information about users, items, and orders for a Grocery Drone Delivery System by following a database design methodology. 
 
 ## Phase I 
-* [ERD Creation](https://github.com/fxie48/GroceryDroneDeliverySystem/files/12413485/Phase.I.ERD.pdf)
+In Phase I, we created an Entity-Relationship Diagram (ERD) based on given project requirements. 
 
-<img width="589" alt="Screenshot 2023-08-22 at 6 38 50 PM" src="https://github.com/fxie48/GroceryDroneDeliverySystem/assets/72349641/ee636e7c-c5e8-4f40-8110-00fd436450d6">
+<p align="center"><img width="643" alt="erd" src="https://github.com/fxie48/GroceryDroneDeliverySystem/assets/100004164/f8eccff2-c911-449a-a806-08000b0b4ffa"></p>
 
 ## Phase II
-* [Schema Creation](https://github.com/fxie48/GroceryDroneDeliverySystem/files/12413482/cs4400_phase2_schema_team63.pdf)
-
+In Phase II, we translated the the ERD into the relational schema shown below. It lists the numerous tables and relationships needed to store the different aspects of the system. Additionally, we created the tables and uploaded a provided dataset into the tables. The code can be found in the file named _Phase II - Schema Creation.sql_
+<p align="center"><img width="409" alt="relational-schema" src="https://github.com/fxie48/GroceryDroneDeliverySystem/assets/100004164/7df1959a-f9d0-4059-9e60-0c21a1017669"></p>
 
 ## Phase III 
-* Table Creation
-* Relevant queries
+Finally in Phase III, we wrote SQL create, view, filter, and modify stored procedures needed to support an application. The code can be found in the file named _Phase III - shell.sql_.
 
 ## Team Members
 Felice Xie, Neo Pak, Catherine Wang
